@@ -1,13 +1,14 @@
 # **Assignment**
 
 본 repository는 인하대학교 컴퓨터공학과에 재학하면서 제출했던 과제를 모아둔 것 입니다.
-
+<br>
 ## 컴퓨터 보안
 **[Security.zip](https://github.com/Seomingyun/Assignment/blob/main/Security.zip)** <br>
 1. bin_ext_euclid 구현
 2. dlog 구현
 3. Miller-Rabin Algorithm 구현
-4. Steganography 구현: cpp 파일을 실행시키 후, 메시지를 입력하며 stego.bmp 사지 폴더에 해다 메시지가 숨겨진ㄷ.
+4. Steganography 구현: cpp 파일을 실행시킨 후, 메시지를 입력하면 stego.bmp 사진 파일에 해당 메시지가 숨겨진다.
+
 
 ## 오퍼레이팅 시스템
 **[OS_scheduler.zip](https://github.com/Seomingyun/Assignment/blob/main/OS_scheduler.zip)**<br>
@@ -22,10 +23,10 @@ Ready queue 5개를 각각 FCFS, SJF, Priority, CFS, RR 스케줄링 방법으�
 하지만 시간 관계상 웹사이트와 pose transfer를 연결하지 못했다. 추후에 보완할 예정이다. <br>
 
 ## 인공지능
-**[Wine_classifier.zip](https://github.com/Seomingyun/Assignment/blob/main/Wine_classifier.zip)**
+**[Wine_classifier.zip](https://github.com/Seomingyun/Assignment/blob/main/Wine_classifier.zip)**<br>
 유명한 주제인 "와인의 quality 숫자 맞추기"에 대해 과제를 진행하였다.<br>
 과제의 목표는 기본 네트워크(hidden layer 2개)를 하이퍼 파라미터만 조정해서 성능 향상을 내는 것이었다. <br>
 <br>
-**[Blackjack.zip](https://github.com/Seomingyun/Assignment/blob/main/Blackjack.zip)**
+**[Blackjack.zip](https://github.com/Seomingyun/Assignment/blob/main/Blackjack.zip)**<br>
 유명한 강화 학습 관련 주제인 "Blackjack"을 구현해보는 과제였다.<br>
 카드 카운팅 기술과 몬테 카를로 기법을 이용하여 강화 학습의 성능을 향상시키는 것이 과제의 목표였다.<br>
